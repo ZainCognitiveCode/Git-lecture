@@ -1,0 +1,15 @@
+ONCE IN A WHILE 
+step 1 : Git Software Download
+step 2: opne cmd in the folder for initializing git. 
+step 3: git config --global user.name "Zain Ul Abideen"  // apna github ka name do
+step 4: git config --global user.email "xain.graphics69@gmail.com"  //apni github wali mail do.
+
+
+FOR EVERY NEW PROJECT
+step 3: type git init.
+
+Every new changes - repeat
+step 4: git add -A  // mean all files ko add kro 
+step 5: git add commit -m "yahan explanation do jo commit kia ha."
+step 6: git push origin master
+step 7: git log //git pr kitny commit kiye hn unko dekhny ky liye
